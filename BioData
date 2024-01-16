@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <p>i work hard</p>
+  <h1>personal information</h1>
+  <p>-Wigwigan Aaron James</p>
+  <p>-Gibraltar road</p>
+  <p>-09252562589</p>
+  <p>-a-w2703@students.uc-bcf.edu.ph</p>
+  <h1>Educational Background</h1>
+  <p>-Primary (pines,Gibraltar, 2015)</p>
+  <p>-Secondary (pines, Gibraltar, 2019)</p>
+  <p>-Tertiary (BCS,poblation bauko, 2022)</p>
+  <h1>Skills</h1>
+  <p>1.basketball</p>
+</body>
+</html>
